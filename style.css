@@ -161,7 +161,9 @@ html {
 .client-item {
     padding: 15px;
 }
-
+.client-item {
+    z-index: -1;
+}
 
 /* contact section */
 
